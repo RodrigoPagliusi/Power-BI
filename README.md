@@ -1,2 +1,2 @@
 # Power-BI
-Data Analytics Studies using Power BI
+Análise de Dados com Power BI
